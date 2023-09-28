@@ -14,4 +14,4 @@ __*Eu ajudo desenvolvedores que usam .NET no backend a entregarem software de qu
 
 Estas são minhas anotações. Fique à vontade para explorar. Atualizo estas páginas na medida que novas ideias surgirem.
 
-Siga meu canal no [[WhatsApp]]. [[teste]]
+Siga meu canal no [[WhatsApp]].
