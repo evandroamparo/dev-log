@@ -57,7 +57,7 @@
             {%- endif -%}
         {%- endfor -%}
     
-        {%- assign internal_url_array = internal_urls | split:link_joiner_delimiter -%}
+        {%- assign internal_url_array = internal_urls | split:link_joiner_'de'limiter -%}
         {%- assign internal_link_array = internal_links | split:link_joiner_delimiter -%}
 
         {%- assign external_url_array = external_urls | split:link_joiner_delimiter -%}
