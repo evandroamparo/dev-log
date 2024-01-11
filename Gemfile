@@ -33,5 +33,3 @@ gem 'jekyll-sitemap'
 gem 'kramdown-math-katex'
 
 gem "webrick", "~> 1.7"
-
-gem 'sassc', '~> 2.1.0'
